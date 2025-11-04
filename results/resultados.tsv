@@ -1,0 +1,137 @@
+source	native	name	p_value	significant	intersection_size	term_size	query_size	intersections
+GO:CC	GO:0098803	respiratory chain complex	4.172253411086151e-06	True	3	102	3	
+GO:MF	GO:0015078	proton transmembrane transporter activity	2.2891297421447945e-05	True	3	186	3	
+GO:BP	GO:0009060	aerobic respiration	2.449840995552535e-05	True	3	199	3	
+GO:BP	GO:0006119	oxidative phosphorylation	2.449840995552535e-05	True	3	146	3	
+GO:BP	GO:1902600	proton transmembrane transport	2.449840995552535e-05	True	3	190	3	
+GO:BP	GO:0045333	cellular respiration	3.3132813709204815e-05	True	3	242	3	
+KEGG	KEGG:00190	Oxidative phosphorylation	5.780604207003501e-05	True	3	134	3	
+KEGG	KEGG:04714	Thermogenesis	7.57200119024221e-05	True	3	232	3	
+KEGG	KEGG:05208	Chemical carcinogenesis - reactive oxygen species	7.57200119024221e-05	True	3	221	3	
+KEGG	KEGG:05415	Diabetic cardiomyopathy	7.57200119024221e-05	True	3	202	3	
+GO:BP	GO:0015980	energy derivation by oxidation of organic compounds	7.708614242400755e-05	True	3	345	3	
+KEGG	KEGG:05020	Prion disease	8.060777781413214e-05	True	3	271	3	
+KEGG	KEGG:05012	Parkinson disease	8.060777781413214e-05	True	3	265	3	
+KEGG	KEGG:05016	Huntington disease	9.861906382562679e-05	True	3	305	3	
+GO:CC	GO:0005743	mitochondrial inner membrane	0.0001399133470337839	True	3	514	3	
+GO:CC	GO:1990351	transporter complex	0.0001399133470337839	True	3	518	3	
+GO:CC	GO:1902495	transmembrane transporter complex	0.0001399133470337839	True	3	490	3	
+KEGG	KEGG:05014	Amyotrophic lateral sclerosis	0.0001457052748845521	True	3	363	3	
+GO:CC	GO:0019866	organelle inner membrane	0.00015000383377496257	True	3	571	3	
+KEGG	KEGG:05010	Alzheimer disease	0.0001509983806608559	True	3	382	3	
+GO:BP	GO:0006091	generation of precursor metabolites and energy	0.00017126816226907578	True	3	478	3	
+KEGG	KEGG:05022	Pathways of neurodegeneration - multiple diseases	0.0002600305323712855	True	3	474	3	
+GO:CC	GO:0031966	mitochondrial membrane	0.00033153409235218344	True	3	790	3	
+GO:CC	GO:0005740	mitochondrial envelope	0.00034169321756240766	True	3	840	3	
+GO:MF	GO:0015453	oxidoreduction-driven active transmembrane transporter activity	0.0003662707917451932	True	2	66	3	
+GO:MF	GO:0022890	inorganic cation transmembrane transporter activity	0.0003662707917451932	True	3	702	3	
+GO:MF	GO:0008324	monoatomic cation transmembrane transporter activity	0.0003662707917451932	True	3	741	3	
+GO:BP	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	0.0003764747872837182	True	2	67	3	
+GO:MF	GO:0009055	electron transfer activity	0.0003774862779662077	True	2	114	3	
+GO:MF	GO:0015075	monoatomic ion transmembrane transporter activity	0.0003774862779662077	True	3	868	3	
+GO:MF	GO:0022853	active monoatomic ion transmembrane transporter activity	0.0003774862779662077	True	2	118	3	
+GO:MF	GO:0015318	inorganic molecular entity transmembrane transporter activity	0.0003774862779662077	True	3	827	3	
+GO:BP	GO:0022904	respiratory electron transport chain	0.00043971611415986715	True	2	115	3	
+GO:BP	GO:0009206	purine ribonucleoside triphosphate biosynthetic process	0.00043971611415986715	True	2	113	3	
+GO:BP	GO:0015986	proton motive force-driven ATP synthesis	0.00043971611415986715	True	2	78	3	
+GO:BP	GO:0006754	ATP biosynthetic process	0.00043971611415986715	True	2	102	3	
+GO:BP	GO:0019646	aerobic electron transport chain	0.00043971611415986715	True	2	91	3	
+GO:BP	GO:0009201	ribonucleoside triphosphate biosynthetic process	0.00043971611415986715	True	2	119	3	
+GO:BP	GO:0009145	purine nucleoside triphosphate biosynthetic process	0.00043971611415986715	True	2	114	3	
+GO:BP	GO:0042773	ATP synthesis coupled electron transport	0.00043971611415986715	True	2	99	3	
+GO:BP	GO:0098660	inorganic ion transmembrane transport	0.00043971611415986715	True	3	944	3	
+GO:BP	GO:0098655	monoatomic cation transmembrane transport	0.00043971611415986715	True	3	877	3	
+GO:BP	GO:0098662	inorganic cation transmembrane transport	0.00043971611415986715	True	3	854	3	
+GO:BP	GO:0042775	mitochondrial ATP synthesis coupled electron transport	0.00043971611415986715	True	2	99	3	
+GO:BP	GO:0009142	nucleoside triphosphate biosynthetic process	0.00045325373289776914	True	2	127	3	
+GO:BP	GO:0022900	electron transport chain	0.00045325373289776914	True	2	126	3	
+GO:BP	GO:0034220	monoatomic ion transmembrane transport	0.0004939598246193724	True	3	1048	3	
+GO:BP	GO:0006812	monoatomic cation transport	0.0005014876024197968	True	3	1069	3	
+GO:BP	GO:0009152	purine ribonucleotide biosynthetic process	0.0006377503271734648	True	2	161	3	
+GO:MF	GO:0015399	primary active transmembrane transporter activity	0.0006726687948640098	True	2	167	3	
+GO:MF	GO:0022857	transmembrane transporter activity	0.0006793805454140983	True	3	1235	3	
+GO:CC	GO:1990204	oxidoreductase complex	0.0007187299625176237	True	2	147	3	
+GO:BP	GO:0009260	ribonucleotide biosynthetic process	0.0007316765119916061	True	2	176	3	
+GO:BP	GO:0006811	monoatomic ion transport	0.0007371536497655301	True	3	1282	3	
+GO:BP	GO:0046390	ribose phosphate biosynthetic process	0.0007371536497655301	True	2	183	3	
+GO:BP	GO:0006164	purine nucleotide biosynthetic process	0.0007855492818608	True	2	193	3	
+GO:MF	GO:0005215	transporter activity	0.000808679240426185	True	3	1351	3	
+REAC	REAC:R-HSA-9837999	Mitochondrial protein degradation	0.0008636321484378895	True	2	98	2	
+GO:BP	GO:0009165	nucleotide biosynthetic process	0.0010318651064773528	True	2	229	3	
+GO:BP	GO:0046034	ATP metabolic process	0.0010318651064773528	True	2	229	3	
+GO:CC	GO:0031967	organelle envelope	0.0010539029065530035	True	3	1329	3	
+GO:CC	GO:0098796	membrane protein complex	0.0010923620770053677	True	3	1393	3	
+WP	WP:WP623	Oxidative phosphorylation	0.001104399216666773	True	2	60	3	
+GO:BP	GO:0009199	ribonucleoside triphosphate metabolic process	0.0011395901804956848	True	2	260	3	
+GO:BP	GO:0009205	purine ribonucleoside triphosphate metabolic process	0.0011395901804956848	True	2	253	3	
+GO:BP	GO:0055085	transmembrane transport	0.0011395901804956848	True	3	1578	3	
+GO:BP	GO:0009144	purine nucleoside triphosphate metabolic process	0.0011395901804956848	True	2	260	3	
+GO:BP	GO:0072522	purine-containing compound biosynthetic process	0.0011395901804956848	True	2	257	3	
+GO:BP	GO:0009141	nucleoside triphosphate metabolic process	0.0012481324924595904	True	2	276	3	
+GO:BP	GO:1901293	nucleoside phosphate biosynthetic process	0.0015705995012796443	True	2	314	3	
+WP	WP:WP111	Electron transport chain OXPHOS system in mitochondria	0.001665323251196396	True	2	104	3	
+GO:BP	GO:0070482	response to oxygen levels	0.0018341915536037286	True	2	344	3	
+GO:BP	GO:0009150	purine ribonucleotide metabolic process	0.0018603249446288142	True	2	351	3	
+REAC	REAC:R-HSA-1428517	Aerobic respiration and respiratory electron transport	0.0019747431494262506	True	2	209	2	
+GO:BP	GO:0009259	ribonucleotide metabolic process	0.002036303838341354	True	2	372	3	
+GO:CC	GO:1902494	catalytic complex	0.002069434000557885	True	3	1779	3	
+GO:BP	GO:0019693	ribose phosphate metabolic process	0.002072588949261961	True	2	380	3	
+GO:CC	GO:0005739	mitochondrion	0.0021127288588339817	True	3	1844	3	
+GO:BP	GO:0006163	purine nucleotide metabolic process	0.0025873382146721895	True	2	430	3	
+GO:BP	GO:0009117	nucleotide metabolic process	0.0033161936704225892	True	2	493	3	
+GO:MF	GO:0022804	active transmembrane transporter activity	0.0037723740889902707	True	2	458	3	
+GO:BP	GO:0072521	purine-containing compound metabolic process	0.004218013878571118	True	2	563	3	
+GO:BP	GO:1901137	carbohydrate derivative biosynthetic process	0.0045867992451049085	True	2	594	3	
+GO:MF	GO:0004129	cytochrome-c oxidase activity	0.004759552631176032	True	1	14	3	
+GO:MF	GO:0016675	oxidoreductase activity, acting on a heme group of donors	0.004759552631176032	True	1	15	3	
+GO:BP	GO:0090407	organophosphate biosynthetic process	0.004869130193266959	True	2	619	3	
+GO:BP	GO:0006753	nucleoside phosphate metabolic process	0.00518614979043853	True	2	646	3	
+GO:BP	GO:0033194	response to hydroperoxide	0.005226891605605596	True	1	20	3	
+GO:BP	GO:0055093	response to hyperoxia	0.005286707341316562	True	1	21	3	
+GO:BP	GO:0055086	nucleobase-containing small molecule metabolic process	0.005286707341316562	True	2	673	3	
+GO:MF	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	0.005329908862651056	True	1	18	3	
+GO:BP	GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	0.005410855230199506	True	1	22	3	
+GO:BP	GO:0036296	response to increased oxygen levels	0.006752181560908228	True	1	28	3	
+GO:MF	GO:0016491	oxidoreductase activity	0.007311947193552914	True	2	759	3	
+GO:MF	GO:0015252	proton channel activity	0.007311947193552914	True	1	28	3	
+GO:CC	GO:0045259	proton-transporting ATP synthase complex	0.007656510477479632	True	1	17	3	
+GO:CC	GO:0045277	respiratory chain complex IV	0.007656510477479632	True	1	18	3	
+KEGG	KEGG:01100	Metabolic pathways	0.008095126541195612	True	3	1537	3	
+WP	WP:WP5233	Arsenic metabolism and reactive oxygen species generation	0.0091313698312853	True	1	10	3	
+GO:MF	GO:0008137	NADH dehydrogenase (ubiquinone) activity	0.01010546388524029	True	1	41	3	
+GO:MF	GO:0003954	NADH dehydrogenase activity	0.01027258107135279	True	1	44	3	
+GO:BP	GO:1901135	carbohydrate derivative metabolic process	0.010538433987491564	True	2	983	3	
+GO:BP	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0.011830155477950908	True	1	51	3	
+REAC	REAC:R-HSA-163210	Formation of ATP by chemiosmotic coupling	0.011986371120556154	True	1	18	2	
+GO:BP	GO:0019637	organophosphate metabolic process	0.012153856298549235	True	2	1077	3	
+GO:CC	GO:0070069	cytochrome complex	0.012696104994057815	True	1	32	3	
+GO:MF	GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	0.012855172848017682	True	1	58	3	
+GO:BP	GO:0009628	response to abiotic stimulus	0.01343930290082881	True	2	1144	3	
+GO:BP	GO:0032981	mitochondrial respiratory chain complex I assembly	0.013598108271558293	True	1	63	3	
+GO:BP	GO:0010257	NADH dehydrogenase complex assembly	0.013598108271558293	True	1	63	3	
+GO:BP	GO:0006810	transport	0.013726382732630042	True	3	4407	3	
+GO:CC	GO:0031090	organelle membrane	0.014343728037813482	True	3	3842	3	
+GO:CC	GO:0030964	NADH dehydrogenase complex	0.0148695126020171	True	1	45	3	
+GO:CC	GO:0045271	respiratory chain complex I	0.0148695126020171	True	1	45	3	
+GO:CC	GO:0016469	proton-transporting two-sector ATPase complex	0.01533630416230925	True	1	49	3	
+REAC	REAC:R-HSA-8949613	Cristae formation	0.015473242765521894	True	1	31	2	
+GO:BP	GO:0051234	establishment of localization	0.018874309759150266	True	3	4928	3	
+GO:MF	GO:0016651	oxidoreductase activity, acting on NAD(P)H	0.02001656317833968	True	1	95	3	
+REAC	REAC:R-HSA-6799198	Complex I biogenesis	0.022733712655545735	True	1	57	2	
+GO:BP	GO:0033108	mitochondrial respiratory chain complex assembly	0.02496752178636976	True	1	122	3	
+WP	WP:WP5269	Genetic causes of porto sinusoidal vascular disease	0.02526142031926626	True	1	37	3	
+GO:BP	GO:0051179	localization	0.026163785645429725	True	3	5555	3	
+GO:CC	GO:0005758	mitochondrial intermembrane space	0.027006306727184227	True	1	91	3	
+GO:BP	GO:0044281	small molecule metabolic process	0.028201196660665773	True	2	1776	3	
+GO:CC	GO:0031970	organelle envelope lumen	0.028815002845962112	True	1	102	3	
+REAC	REAC:R-HSA-1592230	Mitochondrial biogenesis	0.03019829505978672	True	1	91	2	
+WP	WP:WP4324	Mitochondrial complex I assembly model OXPHOS system	0.0305203460267899	True	1	56	3	
+REAC	REAC:R-HSA-611105	Respiratory electron transport	0.03182701601522845	True	1	112	2	
+GO:MF	GO:0016874	ligase activity	0.03525605415418152	True	1	176	3	
+KEGG	KEGG:04260	Cardiac muscle contraction	0.038066189420097596	True	1	87	3	
+REAC	REAC:R-HSA-1430728	Metabolism	0.044495922424426314	True	2	2100	2	
+REAC	REAC:R-HSA-392499	Metabolism of proteins	0.044495922424426314	True	2	2064	2	
+WP	WP:WP4932	7q11 23 copy number variation syndrome	0.04831311877232306	True	1	107	3	
+GO:BP	GO:0006796	phosphate-containing compound metabolic process	0.04926696477880091	True	2	2407	3	
+GO:BP	GO:0006793	phosphorus metabolic process	0.04926696477880091	True	2	2410	3	
+GO:MF	GO:0003824	catalytic activity	0.049777010741981834	True	3	6817	3	
