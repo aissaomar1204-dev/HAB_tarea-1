@@ -90,7 +90,7 @@ El script genera:
 
 ## Documentación Adicional
 
-Para una explicación detallada del análisis, metodología e interpretación de resultados, consulte el documento **informe.pdf** en la carpeta `results/`.
+Para una explicación detallada del análisis, metodología e interpretación de resultados, consulte el documento **TareaHAB_1.pdf** en la carpeta `results/`.
 
 ## Metodología
 
