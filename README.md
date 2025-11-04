@@ -30,7 +30,7 @@ Los genes están principalmente asociados con:
 │   └── analisis-funcional.py    # Script principal
 ├── results/
 │   ├── resultados.tsv            # Resultados del análisis
-│   └── informe.pdf               # Informe detallado en LaTeX
+│   └── TareaHAB_.pdf               # Informe detallado en LaTeX
 ├── requirements.txt              # Dependencias del proyecto
 └── README.md                     # Este archivo
 ```
