@@ -27,7 +27,7 @@ Los genes están principalmente asociados con:
 ├── data/
 │   └── genes_input.txt          # Genes de entrada (COX4I2, ND1, ATP6)
 ├── scripts/
-│   └── analisis_funcional.py    # Script principal
+│   └── analisis-funcional.py    # Script principal
 ├── results/
 │   ├── resultados.tsv            # Resultados del análisis
 │   └── informe.pdf               # Informe detallado en LaTeX
